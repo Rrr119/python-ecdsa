@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid30832",
+  "B": "/home/dev/feedback/uid30832",
+  "sha": "f6f02366d9901a5d3c474304c032342d8863f6ef",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "tlsfuzzer",
+    "repo": "python-ecdsa",
+    "sha": "f6f02366d9901a5d3c474304c032342d8863f6ef"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "python-ecdsa",
+    "cloneUrl": "https://github.com/Rrr119/python-ecdsa.git"
+  },
+  "at": "2026-11-20T19:31:25.011Z"
+}
